@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agustin Miquel</h1>
-<h3 align="center">I live in Cordoba-Argentina. in preparing for be a Backend developer. I study in Famaf university.</h3>
+<h3 align="center">I live in Cordoba-Argentina. in preparing for be a Backend developer. I study at Famaf university.</h3>
 
 - 🌱 I’m currently learning **Node.js and React.js**
 
